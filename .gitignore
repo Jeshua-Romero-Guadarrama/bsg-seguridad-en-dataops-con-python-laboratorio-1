@@ -1,0 +1,9 @@
+.venv/
+.secrets/
+datos/
+referencia.sha256
+__pycache__/
+*.pyc
+.pytest_cache/
+salidas/*
+!salidas/lab1/
